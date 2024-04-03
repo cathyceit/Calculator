@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		441BDF0D2B7BAEA200F9DC78 /* CatsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BDF0C2B7BAEA200F9DC78 /* CatsAppApp.swift */; };
-		441BDF0F2B7BAEA200F9DC78 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BDF0E2B7BAEA200F9DC78 /* ContentView.swift */; };
-		441BDF112B7BAEA300F9DC78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441BDF102B7BAEA300F9DC78 /* Assets.xcassets */; };
-		441BDF142B7BAEA300F9DC78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441BDF132B7BAEA300F9DC78 /* Preview Assets.xcassets */; };
-		441BDF5C2B8392CE00F9DC78 /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BDF5B2B8392CE00F9DC78 /* CalculatorButton.swift */; };
-		441BDF5E2B83933B00F9DC78 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BDF5D2B83933B00F9DC78 /* ContentViewModel.swift */; };
-		441BDF612B8393D600F9DC78 /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441BDF602B8393D600F9DC78 /* CalculatorModel.swift */; };
+		44001F002BBD641F00A9E921 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44001EF62BBD641F00A9E921 /* ContentViewModel.swift */; };
+		44001F012BBD641F00A9E921 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44001EF72BBD641F00A9E921 /* Assets.xcassets */; };
+		44001F022BBD641F00A9E921 /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44001EF92BBD641F00A9E921 /* CalculatorModel.swift */; };
+		44001F032BBD641F00A9E921 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44001EFB2BBD641F00A9E921 /* Preview Assets.xcassets */; };
+		44001F042BBD641F00A9E921 /* CatsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44001EFC2BBD641F00A9E921 /* CatsAppApp.swift */; };
+		44001F052BBD641F00A9E921 /* CalculatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44001EFE2BBD641F00A9E921 /* CalculatorButton.swift */; };
+		44001F062BBD641F00A9E921 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44001EFF2BBD641F00A9E921 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		441BDF092B7BAEA200F9DC78 /* CatsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		441BDF0C2B7BAEA200F9DC78 /* CatsAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatsAppApp.swift; sourceTree = "<group>"; };
-		441BDF0E2B7BAEA200F9DC78 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		441BDF102B7BAEA300F9DC78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		441BDF132B7BAEA300F9DC78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		441BDF5B2B8392CE00F9DC78 /* CalculatorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
-		441BDF5D2B83933B00F9DC78 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
-		441BDF602B8393D600F9DC78 /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
+		44001EF62BBD641F00A9E921 /* ContentViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		44001EF72BBD641F00A9E921 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		44001EF92BBD641F00A9E921 /* CalculatorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
+		44001EFB2BBD641F00A9E921 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		44001EFC2BBD641F00A9E921 /* CatsAppApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CatsAppApp.swift; sourceTree = "<group>"; };
+		44001EFE2BBD641F00A9E921 /* CalculatorButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorButton.swift; sourceTree = "<group>"; };
+		44001EFF2BBD641F00A9E921 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		441BDF092B7BAEA200F9DC78 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,10 +38,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		44001EF42BBD641F00A9E921 /* Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				44001EF52BBD641F00A9E921 /* ViewModels */,
+				44001EF72BBD641F00A9E921 /* Assets.xcassets */,
+				44001EF82BBD641F00A9E921 /* Models */,
+				44001EFA2BBD641F00A9E921 /* Preview Content */,
+				44001EFC2BBD641F00A9E921 /* CatsAppApp.swift */,
+				44001EFD2BBD641F00A9E921 /* Views */,
+			);
+			path = Calculator;
+			sourceTree = "<group>";
+		};
+		44001EF52BBD641F00A9E921 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				44001EF62BBD641F00A9E921 /* ContentViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		44001EF82BBD641F00A9E921 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				44001EF92BBD641F00A9E921 /* CalculatorModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		44001EFA2BBD641F00A9E921 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				44001EFB2BBD641F00A9E921 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		44001EFD2BBD641F00A9E921 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				44001EFE2BBD641F00A9E921 /* CalculatorButton.swift */,
+				44001EFF2BBD641F00A9E921 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		441BDF002B7BAEA200F9DC78 = {
 			isa = PBXGroup;
 			children = (
-				441BDF0B2B7BAEA200F9DC78 /* CatsApp */,
+				44001EF42BBD641F00A9E921 /* Calculator */,
 				441BDF0A2B7BAEA200F9DC78 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,63 +95,17 @@
 		441BDF0A2B7BAEA200F9DC78 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				441BDF092B7BAEA200F9DC78 /* CatsApp.app */,
+				441BDF092B7BAEA200F9DC78 /* Calculator.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		441BDF0B2B7BAEA200F9DC78 /* CatsApp */ = {
-			isa = PBXGroup;
-			children = (
-				441BDF0C2B7BAEA200F9DC78 /* CatsAppApp.swift */,
-				441BDF622B83944300F9DC78 /* Models */,
-				441BDF5A2B83927400F9DC78 /* Views */,
-				441BDF5F2B83937100F9DC78 /* ViewModels */,
-				441BDF102B7BAEA300F9DC78 /* Assets.xcassets */,
-				441BDF122B7BAEA300F9DC78 /* Preview Content */,
-			);
-			path = CatsApp;
-			sourceTree = "<group>";
-		};
-		441BDF122B7BAEA300F9DC78 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				441BDF132B7BAEA300F9DC78 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		441BDF5A2B83927400F9DC78 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				441BDF5B2B8392CE00F9DC78 /* CalculatorButton.swift */,
-				441BDF0E2B7BAEA200F9DC78 /* ContentView.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		441BDF5F2B83937100F9DC78 /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-				441BDF5D2B83933B00F9DC78 /* ContentViewModel.swift */,
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		441BDF622B83944300F9DC78 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-				441BDF602B8393D600F9DC78 /* CalculatorModel.swift */,
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		441BDF082B7BAEA200F9DC78 /* CatsApp */ = {
+		441BDF082B7BAEA200F9DC78 /* Calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 441BDF172B7BAEA300F9DC78 /* Build configuration list for PBXNativeTarget "CatsApp" */;
+			buildConfigurationList = 441BDF172B7BAEA300F9DC78 /* Build configuration list for PBXNativeTarget "Calculator" */;
 			buildPhases = (
 				441BDF052B7BAEA200F9DC78 /* Sources */,
 				441BDF062B7BAEA200F9DC78 /* Frameworks */,
@@ -115,9 +115,9 @@
 			);
 			dependencies = (
 			);
-			name = CatsApp;
+			name = Calculator;
 			productName = CatsApp;
-			productReference = 441BDF092B7BAEA200F9DC78 /* CatsApp.app */;
+			productReference = 441BDF092B7BAEA200F9DC78 /* Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -136,7 +136,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 441BDF042B7BAEA200F9DC78 /* Build configuration list for PBXProject "CatsApp" */;
+			buildConfigurationList = 441BDF042B7BAEA200F9DC78 /* Build configuration list for PBXProject "Calculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,7 +149,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				441BDF082B7BAEA200F9DC78 /* CatsApp */,
+				441BDF082B7BAEA200F9DC78 /* Calculator */,
 			);
 		};
 /* End PBXProject section */
@@ -159,8 +159,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				441BDF142B7BAEA300F9DC78 /* Preview Assets.xcassets in Resources */,
-				441BDF112B7BAEA300F9DC78 /* Assets.xcassets in Resources */,
+				44001F032BBD641F00A9E921 /* Preview Assets.xcassets in Resources */,
+				44001F012BBD641F00A9E921 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -171,11 +171,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				441BDF5E2B83933B00F9DC78 /* ContentViewModel.swift in Sources */,
-				441BDF612B8393D600F9DC78 /* CalculatorModel.swift in Sources */,
-				441BDF0F2B7BAEA200F9DC78 /* ContentView.swift in Sources */,
-				441BDF5C2B8392CE00F9DC78 /* CalculatorButton.swift in Sources */,
-				441BDF0D2B7BAEA200F9DC78 /* CatsAppApp.swift in Sources */,
+				44001F042BBD641F00A9E921 /* CatsAppApp.swift in Sources */,
+				44001F052BBD641F00A9E921 /* CalculatorButton.swift in Sources */,
+				44001F002BBD641F00A9E921 /* ContentViewModel.swift in Sources */,
+				44001F062BBD641F00A9E921 /* ContentView.swift in Sources */,
+				44001F022BBD641F00A9E921 /* CalculatorModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,7 +309,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CatsApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Calculator/Preview Content\"";
 				DEVELOPMENT_TEAM = B69XW822M7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -326,7 +326,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = katya.CatsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "CatsApp/CatsApp-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -341,7 +340,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CatsApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Calculator/Preview Content\"";
 				DEVELOPMENT_TEAM = B69XW822M7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -358,7 +357,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = katya.CatsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OBJC_BRIDGING_HEADER = "CatsApp/CatsApp-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -367,7 +365,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		441BDF042B7BAEA200F9DC78 /* Build configuration list for PBXProject "CatsApp" */ = {
+		441BDF042B7BAEA200F9DC78 /* Build configuration list for PBXProject "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				441BDF152B7BAEA300F9DC78 /* Debug */,
@@ -376,7 +374,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		441BDF172B7BAEA300F9DC78 /* Build configuration list for PBXNativeTarget "CatsApp" */ = {
+		441BDF172B7BAEA300F9DC78 /* Build configuration list for PBXNativeTarget "Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				441BDF182B7BAEA300F9DC78 /* Debug */,

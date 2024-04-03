@@ -1,6 +1,6 @@
 //
 //  CalculatorButton.swift
-//  CatsApp
+//  Calculator
 //
 //  Created by Ekaterina Smolyakova on 19/02/2024.
 //

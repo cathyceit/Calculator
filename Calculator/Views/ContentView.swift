@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CatsApp
+//  Calculator
 //
 //  Created by Ekaterina Smolyakova on 13/02/2024.
 //
